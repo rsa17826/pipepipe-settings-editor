@@ -373,8 +373,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-
-# python pipepipe_settings_tool.py decode newpipe.settings settings.json
-# python pipepipe_settings_tool.py encode settings.json newpipe.settings
-# 7z a ~/syncthing/z.zip newpipe.*
