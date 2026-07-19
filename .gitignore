@@ -1,0 +1,5 @@
+
+.direnv
+newpipe*
+*.settings
+*.json
